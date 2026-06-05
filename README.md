@@ -39,8 +39,4 @@ Production NLP on RK3588S ($50 ARM board).
 
 ---
 
-### 🗣️
-
 Mandarin · English · French
-
-Python · Swift · Go · JavaScript
