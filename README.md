@@ -1,4 +1,4 @@
-# Hi, I'm Félix Lin (林志祥)
+# Hi, I'm Félix Lin
 
 Journalist, educator, and toolmaker at the intersection of **news media × NLP × edge computing**.
 
@@ -11,7 +11,7 @@ I teach journalism at [Shih Hsin University](https://www.shu.edu.tw/) and produc
 **News NLP Pipeline** — Deterministic QA for multilingual news content
 
 - [**numlint**](https://github.com/FakeRocket543/numlint) — Catches magnitude errors, currency mismatches, and unit conversion bugs in translated text. 28 languages, zero AI, pure arithmetic.
-- [**ner-mundo**](https://github.com/FakeRocket543/ner-mundo) — Cross-lingual named entity resolution. Merges "Macron", "Emmanuel Macron", "le président français", and "法國總統馬克宏" into one entry before the LLM sees the text.
+- [**ner-mundo**](https://github.com/FakeRocket543/ner-mundo) — Cross-lingual named entity resolution. Merges "Macron", "Emmanuel Macron", "le président français", and "President of France" into one entry before the LLM sees the text.
 - [**Anseropolis**](https://github.com/FakeRocket543/anseropolis) — Linguistic fingerprinting × manipulation detection for Chinese text.
 - [**TWGY**](https://github.com/FakeRocket543/TWGY) — ASR correction for Taiwan Mandarin accents.
 
@@ -30,7 +30,7 @@ I teach journalism at [Shih Hsin University](https://www.shu.edu.tw/) and produc
 **Tools & Infrastructure**
 
 - [**inff.cc**](https://inff.cc) — FastAPI SSR news aggregator I built and operate. Nginx + PostgreSQL + 60s edge cache.
-- [**yabomish**](https://github.com/FakeRocket543/yabomish) — Boshiamy (嘸蝦米) input method for macOS, written in Swift. Because the existing options weren't good enough.
+- [**yabomish**](https://github.com/FakeRocket543/yabomish) — Boshiamy input method for macOS, written in Swift. Because the existing options weren't good enough.
 - [**webplow**](https://github.com/FakeRocket543/webplow) — WebP conversion API in Go, backed by imgproxy.
 - [**glitchtip-mcp**](https://github.com/FakeRocket543/glitchtip-mcp) — MCP server for GlitchTip error tracking. Query production errors from your AI assistant.
 - [**oh-my-kiro**](https://github.com/FakeRocket543/oh-my-kiro) — Behavioral tuning layer for Kiro CLI. Three execution modes: Direct, Interview, and Ralph (structured persistence).
