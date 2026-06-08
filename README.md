@@ -12,8 +12,18 @@ Deterministic QA for multilingual news — no AI, no hallucination, pure arithme
 
 - [**numlint**](https://github.com/FakeRocket543/numlint) — Catches magnitude errors, currency mismatches, and unit conversion bugs in translated text. 28 languages.
 - [**ner-mundo**](https://github.com/FakeRocket543/ner-mundo) — Cross-lingual named entity resolution. Merges partial names, translations, and coreferences into one canonical entry.
-- [**Anseropolis**](https://github.com/FakeRocket543/anseropolis) — Linguistic fingerprinting × manipulation detection.
+- [**Anseropolis**](https://github.com/FakeRocket543/Anseropolis) — Linguistic fingerprinting × manipulation detection.
 - [**TWGY**](https://github.com/FakeRocket543/TWGY) — ASR correction for Taiwan Mandarin accents.
+
+### 📝 CJK Text Quality
+
+Linting tools for the systematic errors LLMs make when processing Chinese, Japanese, and Korean.
+
+- [**kanjilint**](https://github.com/FakeRocket543/kanjilint) — CJK false friends (同形異義詞) detection. 116K entries, 1,025 trilingual-verified. First automated tool for this problem.
+- [**world-media-tw-linter**](https://github.com/FakeRocket543/world-media-tw-linter) — Normalize 417 international media names in zh-TW text. Fixes LLM translation errors.
+- [**president-linter**](https://github.com/FakeRocket543/president-linter) — Detect stale world leader names (e.g. "南韓總統尹錫悅" → current). 35 G20+ leaders.
+
+All three power [inff.cc](https://inff.cc), a multilingual news aggregation pipeline.
 
 ### 🤖 Edge NLP on ARM
 
