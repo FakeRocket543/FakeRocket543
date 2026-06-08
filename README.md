@@ -21,7 +21,7 @@ Production NLP on RK3588S ($50 ARM board).
 
 - [**GLiNER-Forge**](https://github.com/FakeRocket543/GLiNER-Forge) — Zero-shot NER across macOS (MLX), NVIDIA (CUDA), and RK3588S (ONNX INT8). Includes a fp16 quantization bug fix.
 - [**rk-stantaz**](https://github.com/FakeRocket543/rk-stantaz) — Stanza NLP on RK3588S: 3.66× speedup. Found that RK3588S NPU is *slower* than CPU for LSTM workloads.
-- [**rk-clip**](https://github.com/FakeRocket543/rk-clip) — Traditional Chinese NLP (CKIP) on RK3588S: 3.32× total speedup.
+- [**rk-ckip**](https://github.com/FakeRocket543/rk-ckip) — Traditional Chinese NLP (CKIP) on RK3588S: 3.32× total speedup.
 
 ### 🍎 Apple Silicon NLP
 
